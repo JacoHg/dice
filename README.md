@@ -1,6 +1,9 @@
 # dice
 
-A new Flutter project.
+A simple dice app i created while learning flutter.
+
+App functions:
+-The ability to roll a dice to get a rondom number between 1-6.
 
 ## Getting Started
 
